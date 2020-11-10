@@ -15,7 +15,7 @@ dotnet add package symphony-apiclient-dotnet --version 1.1.1
 
 Prerequisites:
 
-The SDK relies on the following version of NET Core as seen in RequestResponse.csproj: 
+The SDK relies on the following TargetFramework version of NET Core as seen in RequestResponse.csproj: 
 
 ```
 <TargetFramework>netcoreapp3.1</TargetFramework>
